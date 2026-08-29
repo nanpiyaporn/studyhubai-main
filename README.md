@@ -180,7 +180,7 @@ studyhubai/
 
 - **Do by learning it** When I double check this project, some of the request still stuck. It may not perfect, at least we learn something. Let's check it out at [StudyHub.ai.studio](https://studyhuba.ai.studio/)
 - **There will be some error happen** we will ask Gemini to fix that
-  ![how to fix error](https://github.com/nanpiyaporn/studyhubai/blob/main/assets/hackathon-assets/error2.png)
+  ![how to fix error](assets/hackathon-assets/error2.png)
 
   Picture 3: how to fix error
   
@@ -194,14 +194,18 @@ studyhubai/
   
 ## Pictures 
 
-  ![Ankiflashcard](https://github.com/nanpiyaporn/studyhubai/blob/main/assets/hackathon-assets/ankiflashcard.png)
+  ![Ankiflashcard](assets/hackathon-assets/ankiflashcard.png)
   
   
   Picture 2: Anki Agent helps student build a study flashcard.
 
-  ![fixed error](https://github.com/nanpiyaporn/studyhubai/blob/main/assets/hackathon-assets/error2.png) we ask Gemini to fix an error.
+  ![fixed error](assets/hackathon-assets/error2.png)
+
+  we ask Gemini to fix an error.
 
   Picture 3: Using Gemini to fix an error.
+
+  
 
 ## What's Next
 

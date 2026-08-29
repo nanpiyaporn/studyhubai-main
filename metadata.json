@@ -1,0 +1,8 @@
+{
+  "name": "StudyHub AI",
+  "description": "Autonomous multi-agent academic execution platform: 420-min exam scheduling, zero-cost textbook procurement, audio-to-LaTeX transcription, and Anki active recall decks with Google Workspace integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

@@ -194,9 +194,14 @@ studyhubai/
   
 ## Pictures 
 
-  ![Anki flashcard](https://github.com/nanpiyaporn/studyhubai/blob/main/assets/hackathon-assets/ankiflashcard.png)
-  Picture 2: Anki Agent helps student build a study flashcard
+  ![Ankiflashcard](https://github.com/nanpiyaporn/studyhubai/blob/main/assets/hackathon-assets/ankiflashcard.png)
+  
+  
+  Picture 2: Anki Agent helps student build a study flashcard.
 
+  ![fixed error](https://github.com/nanpiyaporn/studyhubai/blob/main/assets/hackathon-assets/error2.png) we ask Gemini to fix an error.
+
+  Picture 3: Using Gemini to fix an error.
 
 ## What's Next
 
